@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/energy-react/static/css/main.7dd0f8bc.css",
+    "main.js": "/energy-react/static/js/main.4874e301.js",
+    "static/media/create-img.svg": "/energy-react/static/media/create-img.18939ed25da33adeecd7e2b00d9d7b81.svg",
+    "static/media/main_right.svg": "/energy-react/static/media/main_right.b0a7a2cb8a2c82984609515ba583e91d.svg",
+    "static/media/photo.jpg": "/energy-react/static/media/photo.3128b3f6101936dcfeb8.jpg",
+    "static/media/price-back.svg": "/energy-react/static/media/price-back.602ed1c65793c27bfee8a407f900a015.svg",
+    "static/media/site_logo1.svg": "/energy-react/static/media/site_logo1.8a4f855ec3b217a8210a4469a674e3dc.svg",
+    "static/media/site_logo3.svg": "/energy-react/static/media/site_logo3.b7001a4fcf3f862911f38211e6b8e8b5.svg",
+    "static/media/rating.svg": "/energy-react/static/media/rating.da0c77828ba1f6b875275916d6f1e450.svg",
+    "static/media/site_logo2.svg": "/energy-react/static/media/site_logo2.fb66c745eaeabee0e0329a3825d21539.svg",
+    "static/media/price-front.svg": "/energy-react/static/media/price-front.2b01f94281b5538da4e764cf10905d18.svg",
+    "static/media/slick.svg": "/energy-react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/energy-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/energy-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/instagram-logo.svg": "/energy-react/static/media/instagram-logo.30af4eba7abfb30997f2cc36e383412b.svg",
+    "static/media/slick.woff": "/energy-react/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/tel.svg": "/energy-react/static/media/tel.1456f064462e0974a3a0c6e55cf20522.svg",
+    "index.html": "/energy-react/index.html",
+    "static/media/linkedin-logo.svg": "/energy-react/static/media/linkedin-logo.8f7bbe81e1d4622e6939ec6a05eef1a0.svg",
+    "static/media/logo.svg": "/energy-react/static/media/logo.db5e5f9003327f6178068346582b3695.svg",
+    "static/media/footer-logo.svg": "/energy-react/static/media/footer-logo.4f9ffad502eb31b96e55cfed6dc4c56e.svg",
+    "static/media/facebook-logo.svg": "/energy-react/static/media/facebook-logo.8d4d8350d43c4d5a4c056e61db21fabd.svg",
+    "static/media/arrow.svg": "/energy-react/static/media/arrow.a8ec528bd7a191c9cf2001aab8190140.svg",
+    "main.7dd0f8bc.css.map": "/energy-react/static/css/main.7dd0f8bc.css.map",
+    "main.4874e301.js.map": "/energy-react/static/js/main.4874e301.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dd0f8bc.css",
+    "static/js/main.4874e301.js"
+  ]
+}

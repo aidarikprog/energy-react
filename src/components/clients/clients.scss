@@ -1,0 +1,66 @@
+.container {
+      max-width: 1280px;
+      margin: 0px auto;
+      padding: 0px 10px;
+      box-sizing: content-box;
+      align-items: center;
+      text-align: center;
+}
+
+.qwe {
+      padding: 100px;
+}
+.card {
+      display: flex;
+      // align-items: center;
+      &__photo {
+            width: 150px;
+            height: 150px;
+      }
+      &__img {
+            border-radius: 112px;
+      }
+      &__name {
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 180%;
+            color: #1d2736;
+      }
+      &__text {
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 180%;
+            color: #1d2736;
+      }
+      &__content {
+      }
+}
+
+.slick {
+      &-prev {
+            background: red;
+      }
+      &-next {
+            background: red;
+      }
+}
+
+.slider {
+      // background-color: rgb(153, 189, 220);
+}
+.slick-prev:before,
+.slick-next:before {
+      font-family: "slick";
+      font-size: 30px;
+      line-height: 1;
+      /* opacity: .75; */
+      color: #759ed4;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+}
+.slick-prev {
+      left: 0px;
+}
+.slick-text {
+      right: 0;
+}

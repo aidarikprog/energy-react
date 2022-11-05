@@ -1,0 +1,112 @@
+.container-wide {
+      max-width: 1360px;
+      margin: 0px auto;
+      padding: 0px 10px;
+      box-sizing: content-box;
+}
+
+.service {
+      background: #FDF9F8;
+      // padding: 100px;
+      &__nav {
+            margin-bottom: 65px;
+      }
+      &__items {
+            display: flex;
+            justify-content: left;
+      }
+      &__item:not(:last-child) {
+            margin-right: 48px;
+      }
+      &__link {
+            font-weight: 500;
+            font-size: 24px;
+            line-height: 180%;
+            color: #1d2736;
+      }
+      &__bottom {
+            display: flex;
+            justify-content: space-between;
+      }
+}
+
+.left {
+      margin-right: 54px;
+      &__title {
+            font-weight: 700;
+            font-size: 46px;
+            line-height: 110%;
+            letter-spacing: -0.03em;
+            color: #1d2736;
+            margin-bottom: 24px;
+            span {
+                  color: #f0998d;
+            }
+      }
+      &__subtitle {
+            margin-bottom: 32px;
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 180%;
+            color: #677487;
+      }
+      &__replace{
+            margin-bottom: 40px;
+      }
+      &__btn{
+            padding: 12px 24px;
+            background-color: #f0998d;
+            border-radius: 15px;
+            color: #ffffff;
+            margin-right: 30px;
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 27px;
+      }
+}
+.replace {
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 180%;
+      letter-spacing: 0.2em;
+      color: #677487;
+      &__items {
+            display: flex;
+      }
+      &__item {
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 180%;
+            color: #1d2736;
+      }
+      &__item:not(:last-child){
+            padding-right: 16px;
+            border-right: 1px solid rgba(29, 39, 54, .2);
+      }
+      &__item:not(:first-child){
+            padding-left: 16px;
+      }
+}
+.create{
+      padding: 24px;
+      max-width: 586px;
+      max-height: 475px;
+      &__left{
+            max-width: 376px;
+            margin-right: 56px;
+      }
+      
+      &__right{
+            transform: rotate(3deg);
+      }
+}
+.back{
+      background: #FDF9F8;
+      padding: 100px 100px 30px;
+      margin: 10px;
+
+}
+.active{
+      padding-bottom: 8px;
+      border-bottom: 3px solid #F0998D;
+}

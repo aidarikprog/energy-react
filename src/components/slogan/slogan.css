@@ -1,0 +1,55 @@
+.container-wide {
+  max-width: 1360px;
+  margin: 0px auto;
+  padding: 0px 10px;
+  box-sizing: content-box;
+}
+
+.slogan {
+  background: #f9f7fc;
+  padding: 140px 100px;
+  display: flex;
+  align-items: center;
+}
+.slogan__left {
+  margin-right: 60px;
+}
+.slogan__title {
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 110%;
+  letter-spacing: -0.03em;
+  color: #1d2736;
+}
+.slogan__title span {
+  color: #f0998d;
+}
+.slogan__subtitle {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 180%;
+  color: #677487;
+}
+
+.right {
+  padding-left: 62px;
+}
+.right img {
+  margin-bottom: 20px;
+}
+.right__title {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 180%;
+  color: #1d2736;
+  margin-bottom: 16px;
+}
+.right__subtitle {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 180%;
+  color: #677487;
+}
+.right__top {
+  margin-bottom: 56px;
+}/*# sourceMappingURL=slogan.css.map */

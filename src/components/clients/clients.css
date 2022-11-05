@@ -1,0 +1,60 @@
+.container {
+  max-width: 1280px;
+  margin: 0px auto;
+  padding: 0px 10px;
+  box-sizing: content-box;
+  align-items: center;
+  text-align: center;
+}
+
+.qwe {
+  padding: 100px;
+}
+
+.card {
+  display: flex;
+}
+.card__photo {
+  width: 150px;
+  height: 150px;
+}
+.card__img {
+  border-radius: 112px;
+}
+.card__name {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 180%;
+  color: #1d2736;
+}
+.card__text {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 180%;
+  color: #1d2736;
+}
+.slick-prev {
+  background: red;
+}
+.slick-next {
+  background: red;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  font-family: "slick";
+  font-size: 30px;
+  line-height: 1;
+  /* opacity: .75; */
+  color: #759ed4;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.slick-prev {
+  left: 0px;
+}
+
+.slick-text {
+  right: 0;
+}/*# sourceMappingURL=clients.css.map */

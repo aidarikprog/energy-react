@@ -1,0 +1,94 @@
+.container{
+      max-width: 1280px;
+      margin: 0px auto;
+      padding: 0px 10px;
+      box-sizing: content-box;
+      }
+
+.price {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 40px;
+      align-items: center;
+      // flex-wrap: wrap;
+      &__left {
+      }
+      &__title {
+            font-weight: 700;
+            font-size: 50px;
+            line-height: 110%;
+            letter-spacing: -0.03em;
+            color: #1d2736;
+            margin-bottom: 40px;
+            span {
+                  color: #f0998d;
+            }
+      }
+      &__power {
+            display: flex;
+            flex-wrap: wrap;
+      }
+      &__right {
+            background: url("./price-back.svg");
+            margin: 92px 27px 144px 54px;
+      }
+      &__value {
+            .front {
+                  padding: 299px 197px 247px 177px;
+            }
+      }
+      &__btn {
+            padding: 12px 24px;
+            background-color: #f0998d;
+            border-radius: 15px;
+            color: #ffffff;
+            margin-right: 30px;
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 27px;
+            margin-top: 40px;
+      }
+}
+.power {
+      .ps {
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 180%;
+            padding: 8px 20px;
+            margin-right: 16px;
+      }
+      .ps:not(:last-child){
+            margin-bottom: 16px;
+
+      }
+      &__1 {
+            color: #ff8b7a;
+            background: #fff1ef;
+            border: 1px solid #ffd1ca;
+            border-radius: 24px;
+      }
+      &__2 {
+            color: #ffac2f;
+            background: #fff8ee;
+            border: 1px solid #ffca7a;
+            border-radius: 24px;
+      }
+      &__3 {
+            color: #3acd77;
+            background: #ecfff4;
+            border: 1px solid #98fac0;
+            border-radius: 24px;
+      }
+      &__4 {
+            color: #2bc0ca;
+            background: #f1feff;
+            border: 1px solid #6ee1e9;
+            border-radius: 24px;
+      }
+      &__5 {
+            color: #c140fd;
+            background: #fcf5ff;
+            border: 1px solid #ebbdff;
+            border-radius: 24px;
+      }
+}
